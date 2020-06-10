@@ -1,6 +1,6 @@
 # [ws-wcontrol-delphi]
 
-<b>Abstract: Program developed in Delphi with the intention of learning in 2015, to do the Business Management of Small Businesses</b>
+<b>Abstract: Program developed in Delphi with the intention of learning in 2015, to do the Business Management of Small Businesses.</b>
 ___
 Programa desenvolvido em Delphi para aprendizado no ano de 2015. Este programa tem como propósito o Gerenciamento Empresarial de pequenos estabelecimentos comerciais. Com o ele é possível realizar as principais tarefas em uma empresa como cadastrar clientes, produtos vendas e geração de relatórios. (OBS: As regras de negócios estão ultrapassadas e provavelmente não são o modelo correto a se trabalhar.)
 
