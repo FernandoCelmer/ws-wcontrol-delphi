@@ -1,5 +1,7 @@
 # [ws-wcontrol-delphi]
 
+![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/ws-wcontrol-delphi) ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
+
 #### Abstract:
 Program developed in Delphi with the intention of learning in 2015, to do the Business Management of Small Businesses.
 ___
